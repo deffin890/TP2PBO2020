@@ -1,0 +1,10 @@
+Saya Deffin Achmaddifa mengerjakan evaluasi TP2
+dalam mata kuliah PBO untuk keberkahanNya 
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Di Project ini saya membuat aplikasi Perpustakan dengan menggunakan 
+library : 
+	1. JDBC DRIVER -> untuk koneksi ke database
+	2. JCALENDER   -> untuk membuat tanggal (tidak menggunakan text field)
+
+library tersebut berada didalam folder Peminjaman Buku, dan hasil tampilan berada didalam folder screenshot tampilan
